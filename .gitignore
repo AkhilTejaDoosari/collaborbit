@@ -1,0 +1,19 @@
+
+# CollabOrbit local files
+.env
+.env.*
+!.env.example
+node_modules/
+.venv/
+__pycache__/
+.DS_Store
+.next/
+dist/
+coverage/
+*.pem
+*.key
+.opencode/node_modules/
+.opencode/auth.json
+.opencode/mcp-auth.json
+.opencode/server.env
+.opencode/connection.txt
