@@ -17,3 +17,13 @@ coverage/
 .opencode/mcp-auth.json
 .opencode/server.env
 .opencode/connection.txt
+
+# CampusTable private runtime files
+.env
+.env.*
+!.env.example
+node_modules/
+.next/
+coverage/
+playwright-report/
+test-results/
